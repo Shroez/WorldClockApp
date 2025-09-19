@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #fdedf5;
   font-family: sans-serif;
   margin-top: 40px;
 }
@@ -28,7 +28,7 @@ select {
   margin: 0 auto;
   background-color: white;
   padding: 30px;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 10px;
 }
 
