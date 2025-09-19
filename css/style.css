@@ -1,3 +1,8 @@
 body {
-  background-color: rgb(225, 234, 243);
+  background-color: rgb(240, 245, 250);
+  text-align: center;
+}
+
+footer {
+  text-align: center;
 }
